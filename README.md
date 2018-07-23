@@ -1,6 +1,8 @@
 # RxBus-Kotlin-Example
 ![RxBus Example](art/RxBus.png)
 
+Medium Blog -> https://medium.com/@therajanmaurya/rxbus-kotlin-listen-where-ever-you-want-e6fc0760a4a8
+
 Usage
 -----
 
